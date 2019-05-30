@@ -1,0 +1,2 @@
+const INTERSTITIAL_PLACEMENT_ID = '603593880106220_603656720099936'; //*-------- Interstitial -------*//
+const REWARDED_PLACEMENT_ID = '603593880106220_603658563433085'; //*-------- Rewarded Video -----*//
